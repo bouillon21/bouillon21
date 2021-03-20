@@ -19,8 +19,8 @@
 
 <p align="center">
   <a href="https://github.com/bouillon21">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bouillon21&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouillon21&layout=compact&theme=radical"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bouillon21&show_icons=true&theme=radical"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouillon21&layout=compact&theme=radical"/>
   </a>
 </p>
 
