@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://github.com/bouillon21">
-    <img src=https://badge42.herokuapp.com/api/stats/cshelli/>
+    <img src="https://badge42.herokuapp.com/api/stats/cshelli?darkmode=true"/>
   </a>
 </p>
 
@@ -19,8 +19,8 @@
 
 <p align="center">
   <a href="https://github.com/bouillon21">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=bouillon21&show_icons=true&theme=react"/>
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouillon21&layout=compact&theme=react"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=bouillon21&show_icons=true&theme=maroongold"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouillon21&layout=compact&theme=maroongold"/>
   </a>
 </p>
 
