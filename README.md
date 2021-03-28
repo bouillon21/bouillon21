@@ -1,7 +1,7 @@
 ### 👋Hello world! I am Bulat!
-🗣 I am a student developer studying in School21.
+🗣 **I am a student developer studying in School21.**
 
-🗣 I am a student of KAI University.
+🗣 **I am a student of KAI University.**
 
 <p align="center">
   <a href="https://github.com/bouillon21">
