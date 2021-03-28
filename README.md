@@ -1,4 +1,4 @@
-### 👋Hello world! I am Bulat!
+## 👋Hello world! I am Bulat!
 🗣 **I am a student developer studying in School21.**
 
 🗣 **I am a student of KAI University.**
