@@ -3,7 +3,7 @@
 
 🗣 I am a student of KAI University.
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/bouillon21">
     <img src="https://badge42.herokuapp.com/api/stats/cshelli?darkmode=true"/>
   </a>
