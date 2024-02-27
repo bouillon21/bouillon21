@@ -3,17 +3,11 @@
 
 🗣 **I am a student of KAI University.**
 
-<p align="center">
-  <a href="https://github.com/bouillon21">
-    <img src="https://badge42.herokuapp.com/api/stats/cshelli?darkmode=true"/>
-  </a>
-</p>
-
 ---
 
 **👷 Skill list**
 
- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 ---
 
@@ -30,4 +24,4 @@
 
 
 [<img src="https://github.com/ncliff-git/screenshots/blob/master/vk.png" width="40">](https://vk.com/bouillon_doma)
-[<img src="https://github.com/ncliff-git/screenshots/blob/master/telegram.png" width="40">](https://t.me/fikus_rus)
+[<img src="https://github.com/ncliff-git/screenshots/blob/master/telegram.png" width="40">](https://t.me/bouillon_doma)
